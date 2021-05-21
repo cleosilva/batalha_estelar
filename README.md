@@ -1,5 +1,9 @@
 
-https://user-images.githubusercontent.com/82469705/117220952-b111a280-adde-11eb-8cf3-b52352e3b514.MP4
+
+
+https://user-images.githubusercontent.com/82469705/119151637-f6acad00-ba25-11eb-8b1e-b15c5f2ede1f.MP4
+
+
 
 # batalha_estelar
 Jogo de tiro no espaço criado em Python. O jogo Shmup! Batalha Estelar consiste em uma nave que se move para a direita e esquerda e atira. 
