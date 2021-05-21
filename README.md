@@ -13,7 +13,7 @@ Funcionalidade aprendidas com o projeto:
 Manipulação de listas e dicionários,
 Controles do jogador (teclado), 
 Manipulação de colisões, 
-Sprite Animations, 
+Animações de Sprites, 
 Som e Música, 
 Terminando o jogo (e reiniciando)
 
